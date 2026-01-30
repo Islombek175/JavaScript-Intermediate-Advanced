@@ -1,3 +1,5 @@
 №35. Amaliyot. Fetch Telegram BOT -- https://github.com/Islombek175/Food-Lower-Restaurnat-Practice/commit/f5c8ad8acfd957260f3dbddf760036b508fbaac4
 
 №37. NPM, ESLint, JSON-Server -- https://github.com/Islombek175/Food-Lower-Restaurnat-Practice/commit/9f804a5aae0af62cfaa82871e720434679ca4d09
+
+№38. Amaliyot. Slider Carousel -- https://github.com/Islombek175/Food-Lower-Restaurnat-Practice/commit/c3e593d756db7e62af588ac19e313fcf5f295c35
