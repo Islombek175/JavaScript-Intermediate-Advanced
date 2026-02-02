@@ -1,0 +1,25 @@
+.wrapper {
+	width: 400px;
+	height: 300px;
+	margin: 0 auto;
+	padding-top: 10%;
+	text-align: center;
+	gap: 20px;
+	font-size: 3rem;
+}
+
+input {
+	width: 90%;
+	height: 30px;
+}
+
+button {
+	width: 90%;
+	height: 30px;
+}
+
+#btn-post {
+	width: 60%;
+	margin-left: 20%;
+	height: 50px;
+}
