@@ -1,0 +1,2 @@
+(()=>{var o={304(o){o.exports=function(){this.tabs=function(){console.log("Get tabs")},this.slider=function(){console.log("Get sliders")},this.modal=function(){console.log("Get modals")}}}},t={};const s=new(function s(e){var n=t[e];if(void 0!==n)return n.exports;var r=t[e]={exports:{}};return o[e](r,r.exports,s),r.exports}(304));s.tabs(),s.slider(),s.modal()})();
+//# sourceMappingURL=bundle.js.map
